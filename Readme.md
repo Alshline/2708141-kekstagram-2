@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript-individual/2/user/2708141).
-* Наставник: `Неизвестно`.
+* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript-individual/2/user/2708141)  // Кашин Андрей.
+* Наставник: `Илья Локалин`.
 
 ---
 
